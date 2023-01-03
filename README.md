@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aniket+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/aniket-jha-819882218/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<!--         <a href="https://www.linkedin.com/in/aniket-jha-819882218/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> -->
 <!--         <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a> -->
 <!--         <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
         <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
@@ -52,6 +52,15 @@
 </div>
 
 ------
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<p align="center">
+<a href="https://github.com/Aniketjha8851/"><img alt="GitHub" src="https://img.shields.io/badge/github-Aniketjha-blue&logo=Github"></a>
+<a href="https://www.linkedin.com/in/aniket-jha-819882218//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aniket%20Jha-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/r_a_u_s_h_a_n_s_h_a_h/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Aniket%20Jha-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/AniketJ8796435"><img alt="Twitter" src="https://img.shields.io/badge/twitter-AniketJ8796435-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:aniketjha8851@gmail.com/"><img alt="Email" src="https://img.shields.io/badge/Email-aniketjha8851@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
 Credit: [Aniket Kumar jha](https://github.com/Aniketjha8851)
 
